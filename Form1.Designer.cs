@@ -249,7 +249,7 @@
             this.btn_AddStudent.TabIndex = 2;
             this.btn_AddStudent.Text = "ADD STUDENT";
             this.btn_AddStudent.UseVisualStyleBackColor = true;
-            this.btn_AddStudent.Click += new System.EventHandler(this.btn_AddStudent_Click);
+            this.btn_AddStudent.Click += new System.EventHandler(this.Btn_AddStudent_Click);
             // 
             // btn_WriteToFile
             // 
@@ -260,7 +260,7 @@
             this.btn_WriteToFile.TabIndex = 3;
             this.btn_WriteToFile.Text = "WRITE TO FILE";
             this.btn_WriteToFile.UseVisualStyleBackColor = true;
-            this.btn_WriteToFile.Click += new System.EventHandler(this.btn_WriteToFile_Click);
+            this.btn_WriteToFile.Click += new System.EventHandler(this.Btn_WriteToFile_Click);
             // 
             // studentCollection
             // 
@@ -281,7 +281,7 @@
             this.btn_ReadFromFile.TabIndex = 5;
             this.btn_ReadFromFile.Text = "READ FROM FILE";
             this.btn_ReadFromFile.UseVisualStyleBackColor = true;
-            this.btn_ReadFromFile.Click += new System.EventHandler(this.btn_ReadFromFile_Click);
+            this.btn_ReadFromFile.Click += new System.EventHandler(this.Btn_ReadFromFile_Click);
             // 
             // btn_Clear
             // 
@@ -292,7 +292,7 @@
             this.btn_Clear.TabIndex = 6;
             this.btn_Clear.Text = "CLEAR";
             this.btn_Clear.UseVisualStyleBackColor = true;
-            this.btn_Clear.Click += new System.EventHandler(this.btn_Clear_Click);
+            this.btn_Clear.Click += new System.EventHandler(this.Btn_Clear_Click);
             // 
             // Form1
             // 
